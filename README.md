@@ -4,7 +4,7 @@ A comprehensive and interactive Power BI dashboard created for **Blinkit – Ind
 
 ## 📊 Features
 
--💰 Total & average sales across outlet types
+💰 Total & average sales across outlet types
 
 🛒 Item categorization and fat content comparison
 
