@@ -30,9 +30,6 @@ A comprehensive and interactive Power BI dashboard created for **Blinkit – Ind
 ![Blinkit](https://github.com/user-attachments/assets/808e4353-7ad3-4e9e-bd91-d4b65af9a1f8)
 
 
-## 🗂 Files Included
-
-
 
 ## 💡 Author
 
