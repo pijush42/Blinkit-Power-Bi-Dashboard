@@ -1,12 +1,18 @@
-# 🛒 Blinkit Power BI Dashboard
+# 🛒 Blinkit Power BI Dashboard – Data-Driven Insights for Retail Analysis
 
 A comprehensive and interactive Power BI dashboard created for **Blinkit – India's Last Minute App**, providing deep insights into product sales, outlet performance, and consumer behavior.
 
 ## 📊 Features
 
-- **Total Sales & KPI Cards**: Visual indicators for sales, number of items, and average rating.
-- **Dynamic Filters**: Slicers for outlet location type, size, and item type for personalized insights.
-- **Visual Breakdown**:
+-💰 Total & average sales across outlet types
+
+🛒 Item categorization and fat content comparison
+
+🏬 Outlet size, location, and establishment trends
+
+🧭 Fully interactive filters and drill-down capabilities
+
+- ** 🔎 Visual Breakdown**:
   - Donut and bar charts to illustrate fat content and item types.
   - Line chart showcasing outlet establishment trends over time.
   - Segmentation by outlet size and location.
