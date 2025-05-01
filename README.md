@@ -12,7 +12,7 @@ A comprehensive and interactive Power BI dashboard created for **Blinkit – Ind
 
 🧭 Fully interactive filters and drill-down capabilities
 
-- ** 🔎 Visual Breakdown**:
+## 🔎 Visual Breakdown
   - Donut and bar charts to illustrate fat content and item types.
   - Line chart showcasing outlet establishment trends over time.
   - Segmentation by outlet size and location.
